@@ -15,4 +15,4 @@ x = [-10:1:10];
 fx= (x+2)./(x-1);
 plot (x, fx);
 title (['La funcion 3 es racional']);
-disp ("es una funcion racional");
+disp ("Es una funcion racional");
