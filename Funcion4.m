@@ -11,8 +11,8 @@
 clear
 pkg load symbolic
 syms x
-x=[-5:1:5];
-fx= ((2.*x)+(1));
+x = [-5:1:5];
+fx = ((2.*x)+(1));
 plot (x, fx);
 title (['La funcion 4 es polinominal']);
 disp ('Es una funcion polinominal');
