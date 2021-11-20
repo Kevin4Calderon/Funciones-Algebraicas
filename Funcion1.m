@@ -8,14 +8,12 @@
 %               :
 %               :Requiere de octave
 
+clear 
+pkg load symbolic
 syms x
-% Dominio 
 x = [-10:1:10];
-% Funcion
 fx = (x.^2-4);
-% Plotear
-plot (x, fx);
-% Datos grafica  
-title (['La funcion (x+2)(x-2) es una funcion polinomica']);
-xlabel ('f(x)=0 cuando x1=-2 y x2=2');
+plot (x, fx);  
+title (['La funcion 1 es polinominal']);
+xlabel ('Es una funcion polinominal');
 disp ('f(x)=0 cuando x1=-2 y x2=2');
