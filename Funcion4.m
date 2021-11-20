@@ -1,5 +1,5 @@
 % Octave Script
-% Title         :Funcion 2
+% Title         :Funcion 4
 % Author        :Kevin Yoan Calderón García
 % Description   :Script para graficar una funcion algebraica
 % Date          :20211115
